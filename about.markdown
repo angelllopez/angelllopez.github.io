@@ -17,6 +17,7 @@ Thank you for visiting my profile.
 ### Technical Skills
 
 {% include technicalskills.md %}
+
 ### Soft Skills
 
 {% include softskills.md %}
