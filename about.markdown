@@ -12,3 +12,11 @@ Collaborative by nature, I thrive in multidisciplinary teams, where I can contri
 With an ever-curious mindset, I stay attuned to the latest industry trends and advancements. Whether I'm diving into the intricacies of DevOps, exploring the nuances of cloud-native architecture, or experimenting with novel AI algorithms, I relish the opportunity to continuously evolve and embrace the technological wave.
 Let's connect and embark on a journey to innovate, create, and revolutionize the digital landscape together. Whether it's developing next-gen web applications, architecting scalable cloud solutions, or infusing AI intelligence into every facet, I'm committed to crafting a future where technology knows no bounds.
 Thank you for visiting my profile.
+
+## My Skills
+### Technical Skills
+
+{% include technicalskills.md %}
+### Soft Skills
+
+{% include softskills.md %}
