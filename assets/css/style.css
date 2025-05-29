@@ -63,20 +63,3 @@ footer {
     border-radius: 8px;
     box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
 }
-
-/* 🔹 Title Styling */
-.about-page h2 {
-    color: #007acc;
-    font-size: 28px;
-}
-
-/* 🔹 Skills Section */
-.about-page ul {
-    list-style: none;
-    padding: 0;
-}
-
-.about-page ul li {
-    font-size: 18px;
-    margin: 10px 0;
-}
