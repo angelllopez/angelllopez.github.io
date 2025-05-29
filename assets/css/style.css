@@ -1,12 +1,58 @@
+/* 🔹 Reset Default Browser Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8;
+    color: #333;
+}
+
+/* 🔹 Header & Navigation */
+header {
+    background: #007acc;
+    padding: 15px 0;
+    text-align: center;
+    color: white;
+}
+
 nav ul {
     list-style: none;
     display: flex;
-    gap: 15px;
+    justify-content: center;
+    gap: 20px;
     padding: 0;
+}
+
+nav ul li {
+    display: inline;
 }
 
 nav ul li a {
     text-decoration: none;
     font-weight: bold;
-    color: #007acc;
+    color: white;
+    padding: 10px;
+}
+
+nav ul li a:hover {
+    background: rgba(255, 255, 255, 0.3);
+    border-radius: 5px;
+}
+
+/* 🔹 Main Content Styling */
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* 🔹 Footer */
+footer {
+    text-align: center;
+    padding: 15px;
+    background: #007acc;
+    color: white;
 }
