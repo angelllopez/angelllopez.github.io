@@ -23,3 +23,6 @@ obj/
 # Never store secret keys or sensitive data
 _secrets.yml
 .env
+
+# Jekyll build output
+_site/
