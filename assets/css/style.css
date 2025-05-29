@@ -53,7 +53,7 @@ footer {
     color: white;
 }
 
-.about-page main {
+.about-page {
     text-align: center;
     max-width: 800px;
     margin: 40px auto;
@@ -64,7 +64,7 @@ footer {
 }
 
 .about-page h2 {
-    color: green;
+    color: green !important;
     font-size: 28px;
 }
 
