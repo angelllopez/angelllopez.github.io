@@ -1,4 +1,3 @@
-/* 🔹 About Page Styles */
 .about-page {
     text-align: center;
     max-width: 800px;
@@ -10,13 +9,11 @@
     background-color: green;
 }
 
-/* 🔹 Title Styling */
 .about-page h2 {
     color: #007acc;
     font-size: 28px;
 }
 
-/* 🔹 Skills Section */
 .about-page ul {
     list-style: none;
     padding: 0;
