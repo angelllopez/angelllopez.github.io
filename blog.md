@@ -1,1 +1,6 @@
-This is a blog
+---
+layout: default
+title: Blog
+---
+
+# 🚀 Blog
