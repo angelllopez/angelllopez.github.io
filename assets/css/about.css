@@ -1,8 +1,4 @@
-body {
-    background-color: yellow !important;
-}
-
-.about-page main {
+body.about-page main {
     text-align: center !important;
     max-width: 800px !important;
     margin: 40px auto !important;
@@ -12,17 +8,17 @@ body {
     box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1) !important;
 }
 
-.about-page h2 {
+body.about-page h2 {
     color: #007acc !important;
     font-size: 28px !important;
 }
 
-.about-page ul {
+body.about-page ul {
     list-style: none !important;
     padding: 0 !important;
 }
 
-.about-page ul li {
+body.about-page ul li {
     font-size: 18px !important;
     margin: 10px 0 !important;
 }
