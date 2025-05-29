@@ -53,27 +53,27 @@ footer {
     color: white;
 }
 
-body.about-page main {
-    text-align: center !important;
-    max-width: 800px !important;
-    margin: 40px auto !important;
-    padding: 20px !important;
-    background: green !important;
-    border-radius: 8px !important;
-    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1) !important;
+.about-page main {
+    text-align: center;
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    background: green;
+    border-radius: 8px;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
 }
 
-body.about-page h2 {
-    color: #007acc !important;
-    font-size: 28px !important;
+.about-page h2 {
+    color: #007acc;
+    font-size: 28px;
 }
 
-body.about-page ul {
-    list-style: none !important;
-    padding: 0 !important;
+.about-page ul {
+    list-style: none;
+    padding: 0;
 }
 
-body.about-page ul li {
-    font-size: 18px !important;
-    margin: 10px 0 !important;
+.about-page ul li {
+    font-size: 18px;
+    margin: 10px 0;
 }
