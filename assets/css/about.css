@@ -1,3 +1,7 @@
+body {
+    background-color: yellow !important;
+}
+
 .about-page main {
     text-align: center !important;
     max-width: 800px !important;
