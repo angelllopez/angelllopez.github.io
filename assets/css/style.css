@@ -1,4 +1,3 @@
-/* 🔹 Reset Default Browser Styles */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -7,7 +6,6 @@ body {
     color: #333;
 }
 
-/* 🔹 Header & Navigation */
 header {
     background: #007acc;
     padding: 15px 0;
@@ -39,7 +37,6 @@ nav ul li a:hover {
     border-radius: 5px;
 }
 
-/* 🔹 Main Content Styling */
 main {
     max-width: 800px;
     margin: 20px auto;
@@ -49,7 +46,6 @@ main {
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
-/* 🔹 Footer */
 footer {
     text-align: center;
     padding: 15px;
