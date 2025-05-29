@@ -1,0 +1,21 @@
+# VS Code settings
+.vscode/
+
+# Build & output files
+bin/
+obj/
+
+# User-specific files
+*.suo
+*.user
+*.rsuser
+*.sln.docstates
+
+# Compiled files
+*.dll
+*.exe
+*.pdb
+
+# Logs & cache
+*.log
+*.cache
