@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About Me
+class: about-page
 ---
 
 ## 👋 Hi, I'm Angel Lopez!  
