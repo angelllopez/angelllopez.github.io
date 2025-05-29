@@ -6,5 +6,5 @@ title: Blog
 # 🚀 Blog
 ## Recent Posts
 {% for post in site.posts %}
-  - [{{ post.title }}]({{ post.url }})
+  - [{{ post.title | escape }}]({{ post.url | escape }})
 {% endfor %}

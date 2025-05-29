@@ -19,3 +19,7 @@ obj/
 # Logs & cache
 *.log
 *.cache
+
+# Never store secret keys or sensitive data
+_secrets.yml
+.env

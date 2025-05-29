@@ -3,12 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page.title }}</title>
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'self';">
+    <title>{{ page.title | escape }}</title>
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body>
     <header>
-        <h1>{{ page.title }}</h1>
+        <h1>{{ page.title | escape }}</h1>
         <nav>
             <ul>
                 <li><a href="{{ '/' | relative_url }}">Home</a></li>
