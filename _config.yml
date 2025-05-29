@@ -1,2 +1,5 @@
 title: "Cloud & DevSecOps Portfolio"
 description: "Showcasing projects, blog posts, and cloud solutions."
+sass:
+  sass_dir: assets/scss
+  style: compressed  # or expanded for easier debugging
