@@ -2,6 +2,7 @@
 layout: default
 title: About Me
 class: about-page
+permalink: /about/
 ---
 
 ## 👋 Hi, I'm Angel Lopez!  
