@@ -1,6 +1,8 @@
 title: "Cloud & DevSecOps Portfolio"
 description: "Showcasing projects, blog posts, and cloud solutions."
+
+# Enable SCSS processing
 sass:
-  load_paths:
-    - _sass
+  sass_dir: _sass  # This explicitly sets the SCSS directory
+  style: compressed  # Use 'expanded' for easier debugging
 
