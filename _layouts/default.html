@@ -6,6 +6,7 @@
     <title>{{ site.title }}</title>
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
     {% if page.url == "/about.html" %}
+        <p style="color: red;">DEBUG: About page CSS is loading!</p>
         <link rel="stylesheet" href="{{ '/assets/css/about.css' | relative_url }}">
     {% endif %}
 </head>
